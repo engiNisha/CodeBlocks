@@ -11,3 +11,8 @@ java promises explained well: https://developer.mozilla.org/en-US/docs/Web/JavaS
 
 Best site for the spring :
 www.baeldung.com
+
+
+setting to run m,aven app as string boot app:
+
+https://stackoverflow.com/questions/32125025/maven-and-spring-boot-non-resolvable-parent-pom-repo-spring-io-unknown-host?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
