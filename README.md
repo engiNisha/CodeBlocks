@@ -16,3 +16,6 @@ www.baeldung.com
 setting to run m,aven app as string boot app:
 
 https://stackoverflow.com/questions/32125025/maven-and-spring-boot-non-resolvable-parent-pom-repo-spring-io-unknown-host?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+design pattern book
+https://www.u-cursos.cl/usuario/f133dab21b6cbf814b4607124f431358/mi_blog/r/head_first_design_patterns.pdf
